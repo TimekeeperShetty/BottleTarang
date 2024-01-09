@@ -1,4 +1,5 @@
 BOTTLE TARANG – HINDUSTANI CLASSICAL MUSIC PLAYER
+
 This project was done by Abhijeet Shetty and Akhila Joshi. 
 
 Hindustani classical music is the classical music of the Northern regions of the Indian subcontinent. It is based on the Raga system, which are melodic scales consisting of combinations of different notes.The forms of Hindustani classical music were designed primarily for vocal performances but have found adaptations in other instruments over the years. 
